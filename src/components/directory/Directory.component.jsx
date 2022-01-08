@@ -34,7 +34,7 @@ class Directory extends React.Component {
                 },
                 {
                   title: 'mens',
-                  imageUrl: `${process.env.PUBLIC_URL}/images/Men-2.jpg`,
+                  imageUrl: `${process.env.PUBLIC_URL}/images/Men-style.jpg`,
                   size: 'large',
                   id: 5,
                   linkUrl: 'shop/mens'
